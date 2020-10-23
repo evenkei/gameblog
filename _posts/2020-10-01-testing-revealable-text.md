@@ -24,7 +24,7 @@ date: 2020-10-01
     <summary class="solution">Full Solution</summary>
     <div class="expandblock">
 		<p>The answer is cute baby elephant. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-		<img src="/puzzlecorner/images/IMG_20200524_140124.jpg" alt="strange fox">
+		<img src="/respondrate/images/IMG_20200524_140124.jpg" alt="strange fox">
 		<p>The answer is cute baby elephant. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <b>Ut enim</b> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		<p>The answer is cute baby elephant. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <b>Ut enim</b> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		<p>The answer is cute baby elephant. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <b>Ut enim</b> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
@@ -59,7 +59,7 @@ date: 2020-10-01
 <details>
     <summary class="solution">Full Solution</summary>
     <div class="expandblock">
-		<img src="/puzzlecorner/images/IMG_20200524_140124.jpg" alt="strange fox">
+		<img src="/respondrate/images/IMG_20200524_140124.jpg" alt="strange fox">
 		<p>The answer is cute baby elephant. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <b>Ut enim</b> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		<p>The answer is cute baby elephant. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <b>Ut enim</b> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 		<p>The answer is cute baby elephant. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <b>Ut enim</b> ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
