@@ -6,7 +6,7 @@ layout: feed
 
 	<title>Respond Rate Blog</title>
 	<link href="https://evenkei.github.io/respondrate/atom.xml" rel="self"/>
-	<link href="https://evenkei.github.io/respondrate/">
+	<link href="https://evenkei.github.io/respondrate/"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>https://evenkei.github.io/respondrate</id>
 	<author>
