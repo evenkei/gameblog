@@ -29,6 +29,7 @@
 			<footer>
 	    		<ul>
 	        		<li><a href="mailto:marinakittaka@gmail.com">email me!</a></li>
+					<li><a href="https://evenkei.github.io/respondrate/atom.xml">RSS</a></li>					| 
 				</ul>
 			</footer>
 		</body>
