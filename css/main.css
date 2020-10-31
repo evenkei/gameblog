@@ -120,3 +120,8 @@ img {
 	margin-bottom: 1em;
 	display: block;
 }
+
+img.fancyline {
+	margin-top: 3em;
+	margin-bottom: 4em;
+}
