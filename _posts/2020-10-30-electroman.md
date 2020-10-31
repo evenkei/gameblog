@@ -25,6 +25,5 @@ Partway through level 1, the enclosed gray bricks open out onto an abstract circ
 ![Electro Man next to a checkpoint](/images/electroman2.png "Electro Man screenshot 5")
 Electro Man's checkpoints appear to be little orange podiums with a white cross emblazoned on the top. Is Electro Man a Christian? Perhaps he loses all of his weapon levels because he is repenting of his violent ways at the altar of Christ. This "saves" his soul, just as is "saves" your progress. But is there really true repentance in Electro Man's heart if he knows all along that he'll go right on back to collecting batteries... right on back to shooting a flaming triple-shot? Ultimately, only God can be Electro Man's judge.
 
-<br>
 ![Fancy horizontal line](/images/respondrateHR.png "Fancy horizontal line")
 <br>
