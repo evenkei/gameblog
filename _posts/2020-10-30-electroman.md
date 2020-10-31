@@ -27,4 +27,12 @@ Partway through level 1, the enclosed gray bricks open out onto an abstract circ
 ![Electro Man next to a checkpoint](/images/electroman2.png "Electro Man screenshot 5")
 Electro Man's checkpoints appear to be little orange podiums with a white cross emblazoned on the top. Is Electro Man a Christian? Perhaps he loses all of his weapon levels because he is repenting of his violent ways at the altar of Christ. This "saves" his soul, just as it "saves" your progress. But is there really *true* repentance in Electro Man's heart if he fully intends to go right on back to collecting batteries... right on back to shooting flaming triple-shots? Ultimately, only God can be Electro Man's judge.
 
+## Update (10-31-20)
+![Screenshot of electroman warping](/images/electroman_warp.png)
+*Electro Man mid-warp from a yellow pad to a green pad directly above*
+
+Electro Man comes across various yellow teleportation pads that generally warp him along the Y-axis only (directly up or down), sometimes within the same screen, sometimes several screens away. He exits warp onto green exit pads. Constraining the warp to the Y-axis is a nice design choice, because even when you are teleported to completely unfamiliar, distant locations, you are still gaining a clearer and clearer picture of the structure of the map as a whole. Exploring isn't just about having lots of physical locations to go to. It's more fun when you can make educated guesses and experience a push and pull between your expectations and discoveries.
+
+By the way: it's easy to play Electro Man and many other DOS games on Windows! I'm using the great program [D-Fend Reloaded](http://dfendreloaded.sourceforge.net/).
+
 <img src="/images/respondrateHR.png" alt="Fancy horizontal line" class="fancyline">
