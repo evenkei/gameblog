@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marina Plays Electro Man (1992)"
+title: "Marina Plays Electro Man (1993)"
 date: 2020-10-30
 ---
 
