@@ -3,7 +3,7 @@ layout: post
 title: "Marina Plays Electro Man (1993)"
 date: 2020-10-30
 ---
-*updated 10-31-2020 with the section about teleportation*
+*Note: updated 10-31-2020 with the section about teleportation*
 
 ## Electro Bodies, Electro Selves
 Electro Man is a DOS game by the Polish company X LanD Computer Games that was originally released in Poland under the (much better) title "Electro Body". The fairly new company Epic (then, "Epic MegaGames") released the game in the US with updated graphics and the new title in 1993. It was well-received in its native country and was seen as a landmark in the field of Polish game development.
