@@ -3,6 +3,7 @@ layout: post
 title: "Marina Plays Electro Man (1993)"
 date: 2020-10-30
 ---
+*updated 10-31-2020 with the section about teleportation*
 
 ## Electro Bodies, Electro Selves
 Electro Man is a DOS game by the Polish company X LanD Computer Games that was originally released in Poland under the (much better) title "Electro Body". The fairly new company Epic (then, "Epic MegaGames") released the game in the US with updated graphics and the new title in 1993. It was well-received in its native country and was seen as a landmark in the field of Polish game development.
@@ -24,15 +25,12 @@ In my short time with Electro Man (I've only played a bit past level 1 so far), 
 Electro Man has great presentation. The clunking sounds of walking and landing fit well with the controls and character design, giving an effective feeling of directing a somewhat ponderous metal guy around industrial locales. The backgrounds employ a pixel art technique that I find very DOS-y: creating gradients with LOTs of colors of a very consistent hue, like on the large boiler-like objects below (as well as the body of the small walker enemy and Electro Man's helmet). This is the kind of thing that Pixel Artists decided was very bad and wrong and so you don't really see it as much any more. The big black shadows contribute to a nice noir vibe.
 ![Electro Man approaching the deep blue area](/images/electroman4.png "Electro Man screenshot 4")
 Partway through level 1, the enclosed gray bricks open out onto an abstract circuit-boardy background of a beautiful deep blue color. These colors have such a classic computer vibe. It's funny how colors date and place visual media, based on what pigments were available to old painters or like how an operating system and computer hardware were built.
+![Screenshot of electroman warping](/images/electroman_warp.png)
+*Electro Man mid-warp from a yellow pad to a green pad directly above*
+Electro Man comes across various yellow teleportation pads that generally warp him along the Y-axis only (directly up or down), sometimes within the same screen, sometimes several screens away. He exits warp onto green exit pads. Constraining the warp to the Y-axis is a nice design choice, because even when you are teleported to completely unfamiliar, distant locations, you are still gaining a clearer and clearer picture of the structure of the map as a whole. Exploring isn't just about having lots of physical locations to go to. It's more fun when you can make educated guesses and experience a push and pull between your expectations and discoveries.
+By the way: it's easy to play Electro Man and many other DOS games on Windows! I'm using the great program [D-Fend Reloaded](http://dfendreloaded.sourceforge.net/).
 ![Electro Man next to a checkpoint](/images/electroman2.png "Electro Man screenshot 5")
 Electro Man's checkpoints appear to be little orange podiums with a white cross emblazoned on the top. Is Electro Man a Christian? Perhaps he loses all of his weapon levels because he is repenting of his violent ways at the altar of Christ. This "saves" his soul, just as it "saves" your progress. But is there really *true* repentance in Electro Man's heart if he fully intends to go right on back to collecting batteries... right on back to shooting flaming triple-shots? Ultimately, only God can be Electro Man's judge.
 
-## Update (10-31-20)
-![Screenshot of electroman warping](/images/electroman_warp.png)
-*Electro Man mid-warp from a yellow pad to a green pad directly above*
-
-Electro Man comes across various yellow teleportation pads that generally warp him along the Y-axis only (directly up or down), sometimes within the same screen, sometimes several screens away. He exits warp onto green exit pads. Constraining the warp to the Y-axis is a nice design choice, because even when you are teleported to completely unfamiliar, distant locations, you are still gaining a clearer and clearer picture of the structure of the map as a whole. Exploring isn't just about having lots of physical locations to go to. It's more fun when you can make educated guesses and experience a push and pull between your expectations and discoveries.
-
-By the way: it's easy to play Electro Man and many other DOS games on Windows! I'm using the great program [D-Fend Reloaded](http://dfendreloaded.sourceforge.net/).
 
 <img src="/images/respondrateHR.png" alt="Fancy horizontal line" class="fancyline">
