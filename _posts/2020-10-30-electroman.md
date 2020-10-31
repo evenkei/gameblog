@@ -24,3 +24,5 @@ Electro Man has great presentation. The clunking sounds of walking and landing f
 Partway through level 1, the enclosed gray bricks open out onto an abstract circuit-boardy background of a beautiful deep blue color. These colors have such a classic computer vibe. It's funny how colors date and place visual media, based on what pigments were available to old painters or like how an operating system and computer hardware were built.
 ![Electro Man next to a checkpoint](/images/electroman2.png "Electro Man screenshot 5")
 Electro Man's checkpoints appear to be little orange podiums with a white cross emblazoned on the top. Is Electro Man a Christian? Perhaps he loses all of his weapon levels because he is repenting of his violent ways at the altar of Christ. This "saves" his soul, just as is "saves" your progress. But is there really true repentance in Electro Man's heart if he knows all along that he'll go right on back to collecting batteries... right on back to shooting a flaming triple-shot? Ultimately, only God can be Electro Man's judge.
+
+<hr>
